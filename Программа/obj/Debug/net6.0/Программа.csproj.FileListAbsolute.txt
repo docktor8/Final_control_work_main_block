@@ -1,0 +1,16 @@
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\bin\Debug\net6.0\Программа.exe
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\bin\Debug\net6.0\Программа.deps.json
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\bin\Debug\net6.0\Программа.runtimeconfig.json
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\bin\Debug\net6.0\Программа.runtimeconfig.dev.json
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\bin\Debug\net6.0\Программа.dll
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\bin\Debug\net6.0\ref\Программа.dll
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\bin\Debug\net6.0\Программа.pdb
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\obj\Debug\net6.0\Программа.csprojAssemblyReference.cache
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\obj\Debug\net6.0\Программа.GeneratedMSBuildEditorConfig.editorconfig
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\obj\Debug\net6.0\Программа.AssemblyInfoInputs.cache
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\obj\Debug\net6.0\Программа.AssemblyInfo.cs
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\obj\Debug\net6.0\Программа.csproj.CoreCompileInputs.cache
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\obj\Debug\net6.0\Программа.dll
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\obj\Debug\net6.0\ref\Программа.dll
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\obj\Debug\net6.0\Программа.pdb
+D:\Итоговая работа по основному блоку\Final_control_work_main_block\Программа\obj\Debug\net6.0\Программа.genruntimeconfig.cache
