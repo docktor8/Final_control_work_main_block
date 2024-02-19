@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" modified="2024-02-19T16:21:50.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="U5biFS8jL13Zn6gDczvN" version="23.1.5" type="device">
+  <diagram name="Страница — 1" id="j4yBhL1UKqm7TpRShYY8">
+    <mxGraphModel dx="1432" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-1" value="Задача: Написать программу, которая из имеющегося массива строк формирует новый массив из строк, длина которых меньше, либо равна 3 символам. Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами." style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8yWxvuaUgBc7MWk8ta-2" target="BM8yWxvuaUgBc7MWk8ta-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-2" value="Старт" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8yWxvuaUgBc7MWk8ta-3" target="BM8yWxvuaUgBc7MWk8ta-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-3" value="Введите размер и элементы массива&lt;br&gt;Размер =&lt;br&gt;Массив=" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8yWxvuaUgBc7MWk8ta-4" target="BM8yWxvuaUgBc7MWk8ta-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-4" value="огранДлинСтр = 3;&lt;br&gt;НовыйМассив" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8yWxvuaUgBc7MWk8ta-5" target="BM8yWxvuaUgBc7MWk8ta-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8yWxvuaUgBc7MWk8ta-5" target="BM8yWxvuaUgBc7MWk8ta-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-5" value="а=0; &lt;br&gt;а&amp;lt;Размер;&lt;br&gt;&amp;nbsp;1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BM8yWxvuaUgBc7MWk8ta-7" target="BM8yWxvuaUgBc7MWk8ta-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-15" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BM8yWxvuaUgBc7MWk8ta-14">
+          <mxGeometry x="-0.2966" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BM8yWxvuaUgBc7MWk8ta-7" target="BM8yWxvuaUgBc7MWk8ta-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-18" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BM8yWxvuaUgBc7MWk8ta-17">
+          <mxGeometry x="0.0667" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-7" value="Массив[а].Длинна&amp;lt;=огранДлинСтр" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="570" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8yWxvuaUgBc7MWk8ta-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="710" />
+              <mxPoint x="270" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-8" value="НовыйМассив add Массив[а]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BM8yWxvuaUgBc7MWk8ta-21" target="BM8yWxvuaUgBc7MWk8ta-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-21" value="НовыйМассив" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BM8yWxvuaUgBc7MWk8ta-23" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
